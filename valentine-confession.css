@@ -56,7 +56,7 @@ body {
 
 .message {
 	padding: 25px;
-	background-color: #eee;
+	background-color: #9400b2;
 	font-family: "Quicksand", serif;
   font-optical-sizing: auto;
 	font-size: clamp(16px, 10vw, 17px);
